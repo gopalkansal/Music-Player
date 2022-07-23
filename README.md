@@ -1,0 +1,2 @@
+# Music-Player
+I am creating a music player with a clean user interface that can be used to play music. I also implements new features. HTML has several methods in the HTMLMediaElement interface that can be used to play audio files and control its playback without using any other library therefore creating the HTML layout first that defines the structure of the player, make it look good by styling using CSS and then write the player logic for all the functions in JavaScript.
